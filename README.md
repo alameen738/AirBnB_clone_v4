@@ -1,1 +1,1 @@
-0x06. AirBnB clone - Web dynamic
+0x02. AirBnB clone - MySQL
